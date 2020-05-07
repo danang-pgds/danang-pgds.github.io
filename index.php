@@ -8,11 +8,11 @@
 <html lang="en">
 <!-- Head -->
 <head>
-<title>My Data a Personal Category Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>PGDS</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta charset="utf-8">
-<meta name="keywords" content="My Data a Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="PGDS, Bootstrap Web, Flat Web, Android Compatible web template, 
+Smartphone Compatible web template, web design" />
 <!-- Default-JavaScript-File -->
 
 	<script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
@@ -48,7 +48,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">My Data</a>
+            <a class="navbar-brand" href="index.html">PGDS</a>
         </div>
 		<!-- Collect the nav links, forms, and other content for toggling -->
         <div class="navbar-collapse collapse navbar-ex1-collapse">
@@ -77,13 +77,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <section class="banner" id="home">
 	<div class="container">
 		<div class="col-md-5 banner-left">
-			<img src="images/banner5.png" alt="" /> 
+			<img src="images/banner5.png" alt="" hidden/> 
 		</div>
 		<div class="col-md-7 banner-right">
 			<h1>Hi, My name is </h1>
 			<span>danang</span>
-			<h2>A man with 7yrs code experience</h2>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sodales, Phasellus sodales, nibh ac nibh ac lacinia euismod, nibh eros nulla feugiat elit, id vestibulum ligula tellus a augue. Lorem Ipsum dolar consectetur adipiscing elit. Phasellus sodales.</p>
+			<h2>A man with <?php echo date("Y")-2013; ?>yrs code experience</h2>
+			<p>“If you live long enough, you'll make mistakes. But if you learn from them, you'll be a better person. It's how you handle adversity, not how it affects you. The main thing is never quit, never quit, never quit”</p>
 		</div>
 		<div class="thim-click-to-bottom">
 			<a href="#about" class="scroll">
@@ -122,7 +122,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<div class="about-grids-bottom">
+			<!-- <div class="about-grids-bottom">
 				<div class="col-md-4 about-bottom-grid">
 					<h4>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam commodo urna dolor,</h4>
 				</div>
@@ -133,7 +133,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam commodo urna dolor, eget lacinia est aliquam id. Proin velit libero, vestibulum ac orci eu, faucibus consectetur dolor. Cras ullamcorper elit eros, nec bibendum lacus accumsan eu. Donec non </p>
 				</div>
 					<div class="clearfix"></div>
-			</div>
+			</div> -->
 				<a href="#" data-toggle="modal" data-target="#myModal"> More about me</a>	
 		</div>
 				
@@ -152,7 +152,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="modal-body">
 					<div class="about modalpad"> 
 						<div class="col-md-4 col-sm-4  col-xs-4 about-left ">
-							<img src="images/banner5.png" class="img-responsive" alt=""/><div class="social-icons">
+							<img src="images/banner5.png" class="img-responsive" alt="" hidden/>
+						<div class="social-icons">
 						<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 						<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
 						<a href="#"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
@@ -160,37 +161,37 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 						</div>
 						<div class="col-md-8 col-sm-8 col-xs-8 about-right wthree">
-							<h3>Hi, i'm <span>Henry Rich </span></h3>
-							<h4>Web Designer & Developer </h4>
+							<h3>Hi, i'm <span>DANANG </span></h3>
+							<h4>Web, Mobile App (Android, IOS) Developer </h4>
 							<ul class="address">
 								<li>
 									<ul class="agileits-address-text ">
 										<li><b>D.O.B</b></li>
-										<li>21-08-1987</li>
+										<li>19-01-1992</li>
 									</ul>
 								</li>
 								<li>
 									<ul class="agileits-address-text">
 										<li><b>PHONE </b></li>
-										<li>+00 234 111 6633</li>
+										<li>+62817550189</li>
 									</ul>
 								</li>
 								<li>
 									<ul class="agileits-address-text">
 										<li><b>ADDRESS </b></li>
-										<li>110 Atatürk Blvd, Kavaklıdere, 06100, Turkey.</li>
+										<li>Denpasar, Bali - Indonesia.</li>
 									</ul>
 								</li>
 								<li>
 									<ul class="agileits-address-text">
 										<li><b>E-MAIL </b></li>
-										<li><a href="mailto:example@mail.com"> info@example.com</a></li>
+										<li><a href="mailto:example@mail.com"> danang.pgds@gmail.com</a></li>
 									</ul>
 								</li>
 								<li>
 									<ul class="agileits-address-text">
 										<li><b>WEBSITE </b></li>
-										<li><a href="#">www.mydata.com</a></li>
+										<li><a href="https://pgds.my.id/">pgds.my.id</a></li>
 									</ul>
 								</li>
 							</ul> 
@@ -230,7 +231,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="wthree_about_right_grid_right">
-						<h4>Html Coding</h4>
+						<h4>Web App</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
 					</div>
 					<div class="clearfix"> </div>
@@ -279,7 +280,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="wthree_about_right_grid_right">
-						<h4>Php Design</h4>
+						<h4>Mobile app Development</h4>
 						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
 					</div>
 					<div class="clearfix"> </div>
@@ -681,7 +682,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="accordion">
 							<div class="accordion-section">
 								<h5><a class="accordion-section-title" href="#accordion-1">
-									<span>2012 - 2016</span> Graduation in Professional National University
+									<span>2012</span> Institute Teknologi Dan Bisnis (ITB) STIKOM BALI
 								<i class="glyphicon glyphicon-chevron-down"></i>
 								</a></h5>
 								<div id="accordion-1" class="accordion-section-content">
@@ -689,12 +690,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									<ul>
 										<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Awards become corroded, friends gather no dust.</a></li>
 										<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">Done a multi national project with clean & accesory design</a></li>
-										<li><span class="glyphicon glyphicon-arrow-right" aria-hidden="true"></span><a href="#">doloremque laudantium</a></li>
+
 									</ul>
 								</div>
 							</div>
 
-							<div class="accordion-section">
+							<!-- <div class="accordion-section">
 								<h5><a class="accordion-section-title" href="#accordion-2">
 									<span>2009 - 2010</span> Diploma in Advertising & Graphic Design
 								<i class="glyphicon glyphicon-chevron-down"></i>
@@ -722,7 +723,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<li><span class="glyphicon glyphicon-ok" aria-hidden="true"></span><a href="#">doloremque laudantium</a></li>
 									</ul>
 								</div>
-							</div>
+							</div> -->
 							
 							
 				</div>
@@ -761,34 +762,67 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h3 class="exp">work experience</h3>
 						<div class="experience-grids">
 							<div class="experience-left">
-								<h3>2015 - Now </h3>
-								<h5>Company Name </h5>
+								<h3>2018 - Now </h3>
+								<h5>PT. RESERVASI INDONESIA SEJAHTERA </h5>
 							</div>
 							<div class="experience-right">
-								<h4>Senior Web Designer</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
+								<h4>Senior Programmer</h4>
+								<p>Hybrid Booking Engine is an easy to use booking for accommodation, activities, and tour operator with integrated payment gateway services and support for several payment gateway services in Indonesia and International. </p>
 							</div>
 							<div class="clearfix"> </div>
 						</div> 
 						<div class="experience-grids experience-grids-btm">
 							<div class="experience-left">
-								<h3>2011 - 2015</h3>
-								<h5>Company Name </h5>
+								<h3>2017 - 2018</h3>
+								<h5>Freelance Working </h5>
 							</div>
 							<div class="experience-right">
-								<h4>Web Designer & Developer</h4>
+								<h4>Web & Mobile Developer</h4>
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
 						<div class="experience-grids w3-agileits">
 							<div class="experience-left">
-								<h3>2009 - 2011</h3>
-								<h5>Company Name </h5>
+								<h3>2015 - 2017</h3>
+								<h5>PT. MBC </h5>
 							</div>
 							<div class="experience-right">
-								<h4>Graphic Designer</h4>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
+								<h4>Web Application</h4>
+								<p>PT. MBC is a banking service application provider company</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<div class="experience-grids w3-agileits">
+							<div class="experience-left">
+								<h3>2014 - 2015</h3>
+								<h5>PT. BALIBOLD </h5>
+							</div>
+							<div class="experience-right">
+								<h4>Web Designer</h4>
+								<p></p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<div class="experience-grids w3-agileits">
+							<div class="experience-left">
+								<h3>2013 - 2014</h3>
+								<h5>Go Vacation Indonesia </h5>
+							</div>
+							<div class="experience-right">
+								<h4>Database Administrator</h4>
+								<p>http://www.govacation-indonesia.com/</p>
+							</div>
+							<div class="clearfix"> </div>
+						</div>
+						<div class="experience-grids w3-agileits">
+							<div class="experience-left">
+								<h3>2012 - 2013</h3>
+								<h5>PT. UKABIMA </h5>
+							</div>
+							<div class="experience-right">
+								<h4>Account Officer</h4>
+								<p>PT. UKABIMA is a company engaged in banking</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
@@ -842,51 +876,36 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="cir_agile_info ">
 								<h3 class="w3_inner_tittle text-center">My Coding skills</h3>
 									  <div class="skill-grids">
-											<div class="skills-grid text-center">
-												<div class="circle" id="circles-1"></div>
-												<p>UI/UX Designer</p>
-											</div>
-											<div class="skills-grid text-center">
-												<div class="circle" id="circles-2"></div>
-												<p>Html</p>
-											</div>
-											<div class="skills-grid text-center">
-												<div class="circle" id="circles-3"></div>
-												
-												<p>Java Script</p>
-											</div>
-											<div class="skills-grid text-center">
-												<div class="circle" id="circles-4"></div>
-												<p>Web developer</p>
-											</div>
-												
-								
-				
-										 <div class="clearfix"></div>
-										
+										<div class="skills-grid text-center">
+											<div class="circle" id="circles-0"></div>
+											<p>UI/UX Designer</p>
+										</div>
+										<div class="skills-grid text-center">
+											<div class="circle" id="circles-1"></div>
+											<p>Html & Java Script</p>
+										</div>
+										<div class="skills-grid text-center">
+											<div class="circle" id="circles-2"></div>
+											<p>Web developer</p>
+										</div>
+										<div class="skills-grid text-center">
+											<div class="circle" id="circles-3"></div>
+											<p>Mobile developer</p>
+										</div>
+										<div class="clearfix"></div>
 								</div>
 							</div>
 						</div>
 <!-- //coding skills --> 
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 	
 <!-- contact -->
 <div class="agile_about contact" id="contact">
 	<div class="container">
 		<div class="agileits_agile_about">
 			<div class="contact-head text-center ">
-				<h3>contact me</h3>
+				<h3><a href="https://api.whatsapp.com/send?phone=0817550189"><img src="images/whatsapp.png" alt="whatsapp" style="width:10% !important"> contact me, click here!</a></h3>
 			</div>
-			<div class="agileits_agile_about_mail">
+			<!-- <div class="agileits_agile_about_mail">
 				<form action="#" method="post">
 					<div class="col-md-6 agileits_agile_about_mail_left">
 						<input type="text" name="Name" placeholder="Name" required="">
@@ -904,25 +923,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<input type="submit" value="Submit">
 					</div>
 				</form>
-			</div>
+			</div> -->
 		</div>
 									<div class="w3agile_map">
-										<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6361699.744011737!2d30.7513355529986!3d38.87140724832268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14b0155c964f2671%3A0x40d9dbd42a625f2a!2sTurkey!5e0!3m2!1sen!2sin!4v1490159234025"></iframe>		
+									<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126214.40479544547!2d115.15423240593532!3d-8.672507212543515!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd2409b0e5e80db%3A0xe27334e8ccb9374a!2sDenpasar%2C%20Denpasar%20City%2C%20Bali%2C%20Indonesia!5e0!3m2!1sen!2sin!4v1588858988212!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 								<div class="agileinfo_map_color">
 											<div class="agileinfo_map_color_grid">
 												<div class="col-md-4 agileinfo_map_color_grid_left">
 													<h4><span class="glyphicon glyphicon-map-marker" aria-hidden="true"></span>Address</h4>
-													<p>110 Atatürk Blvd, Kavaklıdere, 06100 Ankara - Turkey.</p>
+													<p>Denpasar, Bali - Indonesia.</p>
 												</div>
 												<div class="col-md-4 agileinfo_map_color_grid_left">
 													<h4><span class="glyphicon glyphicon-envelope" aria-hidden="true"></span>Mail Me</h4>
-													<p><a href="mailto:example@mail.com"> mail@example.com</a></p>
-													<p><a href="mailto:example@mail.com"> mail@example1.com</a></p>
+													<p><a href="mailto:example@mail.com"> danang.pgds@gmail.com</a></p>
+													<!-- <p><a href="mailto:example@mail.com"> mail@example1.com</a></p> -->
 												</div>
 												<div class="col-md-4 agileinfo_map_color_grid_left">
 													<h4><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>Phone</h4>
-													<p>(0-312) 455 55 5555</p>
-													<p>(0-312) 467 00 0019</p>
+													<p>+62817550189</p>
+													<!-- <p>(0-312) 467 00 0019</p> -->
 												</div>
 												<div class="clearfix"> </div>
 											</div>
@@ -945,7 +964,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</ul>
 					</div>
 
-	<p class="copy-right">© 2017 My data. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
+	<p class="copy-right">© <?php echo date('Y');?>. All rights reserved | Design by <a href="http://w3layouts.com/">W3layouts</a></p>
 </div>
 <!-- copyright -->
 
@@ -1181,16 +1200,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								var colors = [
 										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'],['#ffffff', '#53d769'], ['#ffffff', '#147efb']
 									];
-								for (var i = 1; i <= 7; i++) {
-									var child = document.getElementById('circles-' + i),
-										percentage = 30 + (i * 10);
-										
+								var persentase = [50, 90, 90, 80];
+								for (var i = 0; i <= 3; i++) {
+									var child = document.getElementById('circles-' + i);
+									// console.log(persentase[i])
 									Circles.create({
 										id:         child.id,
-										percentage: percentage,
+										percentage: persentase[i],
 										radius:     80,
 										width:      10,
-										number:   	percentage / 1,
+										number:   	persentase[i] / 1,
 										text:       '%',
 										colors:     colors[i - 1]
 									});
