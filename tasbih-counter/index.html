@@ -1,0 +1,90 @@
+<!doctype html>
+<html ng-app="App" lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>Tasbih Counter</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
+    <script src="main.js"></script>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap">
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Material Design Bootstrap -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.0/css/mdb.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <!-- <h2>Todo</h2>
+    <div ng-controller="TodoListController as todoList">
+      <span>{{todoList.remaining()}} of {{todoList.todos.length}} remaining</span>
+      [ <a href="" ng-click="todoList.archive()">archive</a> ]
+      <ul class="unstyled">
+        <li ng-repeat="todo in todoList.todos">
+          <label class="checkbox">
+            <input type="checkbox" ng-model="todo.done">
+            <span class="done-{{todo.done}}">{{todo.text}}</span>
+          </label>
+        </li>
+      </ul>
+      <form ng-submit="todoList.addTodo()">
+        <input type="text" ng-model="todoList.todoText"  size="30"
+               placeholder="add new todo here">
+        <input class="btn-primary" type="submit" value="add">
+      </form>
+    </div> -->
+
+    <!-- Start your project here-->
+    <div style="height: 100vh" class="container-fluid">
+        <!-- <div class="flex-center flex-column"> -->
+            <!-- Card -->
+            <div class="card" style="margin-top: 15px;" ng-controller="MainController as me">
+                <!-- Card image -->
+                <div class="view overlay total-layout">
+                    <div class="card height-match-parent blue-gradient">
+                        <div class="margin-auto total-counter">{{me.total_counter}}</div>
+                    </div>
+                </div>
+            
+                <!-- Card content -->
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6 min-layout">
+                            <div class="card height-match-parent"ng-click="me.reset()">
+                                <div class="margin-auto">RESET</div>
+                            </div>
+                        </div>
+                        <div class="col-6 reset-layout" >
+                            <div class="card height-match-parent" ng-click="me.minus()">
+                                <div class="margin-auto">MINUS</div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-12 plus-layout">
+                            <div class="card height-match-parent"ng-click="me.plus()">
+                                <div class="margin-auto">PLUS</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            
+            </div>
+            <!-- Card -->
+        <!-- </div> -->
+    </div>
+    <!-- /Start your project here-->
+
+    <!-- JQuery -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Bootstrap tooltips -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.4/umd/popper.min.js"></script>
+    <!-- Bootstrap core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/js/bootstrap.min.js"></script>
+    <!-- MDB core JavaScript -->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.0/js/mdb.min.js"></script>
+  </body>
+</html>

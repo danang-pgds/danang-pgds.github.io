@@ -1,0 +1,34 @@
+.total-layout {
+    height: 40vh;;
+}
+.total-counter {
+    font-size: 8rem;
+    color: white;
+}
+.min-layout {
+    /* background-color: blue; */
+    padding: 15px;
+    height: 10vh;
+}
+.reset-layout {
+    /* background-color: red; */
+    padding: 15px;
+    height: 10vh;
+}
+.plus-layout {
+    /* background-color: blueviolet; */
+    padding: 15px;
+    height: 40vh;
+}
+.height-match-parent {
+    height: 100%;
+}
+.center-text {
+    text-align: center;
+}
+.margin-auto {
+    margin: auto;
+}
+.blue-gradient {
+    background: linear-gradient(40deg,#45cafc,#303f9f) !important;
+}
