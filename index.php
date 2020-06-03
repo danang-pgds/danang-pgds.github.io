@@ -313,320 +313,25 @@ Smartphone Compatible web template, web design" />
 				<div class="sap_tabs">
 					<div id="horizontalTab" style="display: block; width: 100%; margin: 0px;">
 						<ul class="resp-tabs-list">
-							<li class="resp-tab-item" aria-controls="tab_item-0" role="tab">All</li> 
-							<li class="resp-tab-item" aria-controls="tab_item-1" role="tab">Web Templates</li> 
-							<li class="resp-tab-item" aria-controls="tab_item-2" role="tab">Web Elements</li> 
-							<li class="resp-tab-item" aria-controls="tab_item-3" role="tab">App Design</li> 
-							<li class="resp-tab-item" aria-controls="tab_item-4" role="tab">Creative</li> 
+							<li class="resp-tab-item" aria-controls="tab_item-0" role="tab">My App</li> 
 						</ul>				  	 
 						<div class="resp-tabs-container">
 							<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-0">
-								<div class="col-md-3 team-gd ">
+								<div class="col-md-3 team-gd " style="text-align:center;">
+									<label><a href="http://pgds.my.id/tasbih-counter">Tasbih Counter</a></label>
 									<div class="thumb">
-										<a href="#portfolioModal1" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g1.jpg" alt="">
+										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/tasbih-counter.png" alt="">
 										<div class="team_pos">
 											<ul>
 												<li>
-													<div class="morph pic fb_icon1">
-													</div>
+													<div class="morph pic fb_icon1"></div>
 												</li>
 											</ul>
 										</div>
 										</a>
 									</div>
 								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal3" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g2.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal2" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g3.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal4" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g4.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd yes_marg ">
-									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g5.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd yes_marg ">
-									<div class="thumb">
-										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g6.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd yes_marg ">
-									<div class="thumb">
-										<a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g7.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd yes_marg ">
-									<div class="thumb">
-										<a href="#portfolioModal8" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g8.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-1">
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g9.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd  ">
-									<div class="thumb">
-										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g10.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g11.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-2">
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal2" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g12.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal4" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g1.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd">
-									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g3.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd">
-									<div class="thumb">
-										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g4.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-3">
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g9.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd  ">
-									<div class="thumb">
-										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g1.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g12.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="clearfix"></div>
-							</div>
-							<div class="tab-1 resp-tab-content" aria-labelledby="tab_item-4">
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g6.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd  ">
-									<div class="thumb">
-										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g4.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
-								<div class="col-md-3 team-gd ">
-									<div class="thumb">
-										<a href="#portfolioModal7" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/g1.jpg" alt="">
-										<div class="team_pos">
-											<ul>
-												<li>
-													<div class="morph pic fb_icon1">
-													</div>
-												</li>
-											</ul>
-										</div>
-										</a>
-									</div>
-								</div>
+								
 								<div class="clearfix"></div>
 							</div>
 						</div>
@@ -1103,9 +808,9 @@ Smartphone Compatible web template, web design" />
 			<div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <div class="modal-body">
-						<h3>Image-Title</h3>
-                        <img src="images/g5.jpg" class="img-responsive img-centered" alt="">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+						<h3>Tasbih Counter</h3>
+                        <img src="images/tasbih-counter.png" class="img-responsive img-centered" alt="">
+                        <p>Tasbih counter adalah aplikasi untuk membantu dalam menghitung jumlah dzikir.</p>
                     </div>
                 </div>
             </div>
