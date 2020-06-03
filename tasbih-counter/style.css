@@ -1,5 +1,5 @@
 .total-layout {
-    height: 40vh;;
+    height: 35vh;;
 }
 .total-counter {
     font-size: 8rem;
@@ -18,7 +18,7 @@
 .plus-layout {
     /* background-color: blueviolet; */
     padding: 15px;
-    height: 40vh;
+    height: 35vh;
 }
 .height-match-parent {
     height: 100%;
