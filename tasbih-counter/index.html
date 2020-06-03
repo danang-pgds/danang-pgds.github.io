@@ -8,6 +8,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.9/angular.min.js"></script>
     <script src="main.js"></script>
     <link rel="stylesheet" href="style.css">
+    <!-- mdbootstrap -->
     <!-- Font Awesome -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css">
     <!-- Google Fonts -->
@@ -16,6 +17,12 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
     <!-- Material Design Bootstrap -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.0/css/mdb.min.css" rel="stylesheet">
+    <!-- end mdbootstrap -->
+    <!-- bootstrap original -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script> -->
+    <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script> -->
+    <!-- end bootstrap original -->
   </head>
   <body>
     <!-- <h2>Todo</h2>
@@ -52,12 +59,17 @@
                 <!-- Card content -->
                 <div class="card-body">
                     <div class="row">
-                        <div class="col-6 min-layout">
+                        <div class="col-5 min-layout">
                             <div class="card height-match-parent"ng-click="me.reset()">
                                 <div class="margin-auto">RESET</div>
                             </div>
                         </div>
-                        <div class="col-6 reset-layout" >
+                        <div class="col-2 reset-layout" >
+                            <div class="card height-match-parent" ng-click="me.change_unit()">
+                                <div class="margin-auto"><span class="glyphicon glyphicon-refresh"></span></div>
+                            </div>
+                        </div>
+                        <div class="col-5 reset-layout" >
                             <div class="card height-match-parent" ng-click="me.minus()">
                                 <div class="margin-auto">MINUS</div>
                             </div>
@@ -65,8 +77,12 @@
                     </div>
                     <div class="row">
                         <div class="col-12 plus-layout">
-                            <div class="card height-match-parent"ng-click="me.plus()">
-                                <div class="margin-auto">PLUS</div>
+							<div class="card height-match-parent" ng-click="me.plus()">
+								<class class="margin-auto center-text">
+									<span style="font-size: 2rem;">{{me.tmp_unit}} / {{me.total_unit}}</span>
+									<br>
+									<span style="font-size: 1.5rem;">COUNT</span>
+								</div>
                             </div>
                         </div>
                     </div>
