@@ -5,15 +5,10 @@
     font-size: 8rem;
     color: white;
 }
-.min-layout {
+.tool-layout {
     /* background-color: blue; */
-    padding: 15px;
-    height: 10vh;
-}
-.reset-layout {
-    /* background-color: red; */
-    padding: 15px;
-    height: 10vh;
+    padding: 5px;
+    height: 7vh;
 }
 .plus-layout {
     /* background-color: blueviolet; */
