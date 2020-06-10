@@ -114,7 +114,7 @@ Smartphone Compatible web template, web design" />
 				</div>
 				<div class="col-md-3 about-grid">
 					<i class="fa fa-th" aria-hidden="true"></i>
-					<h4>Creative design</h4>
+					<h4>Front / Back End</h4>
 				</div>
 				<div class="col-md-3 about-grid">
 					<i class="fa fa-file-text" aria-hidden="true"></i>
@@ -152,7 +152,7 @@ Smartphone Compatible web template, web design" />
 				<div class="modal-body">
 					<div class="about modalpad"> 
 						<div class="col-md-4 col-sm-4  col-xs-4 about-left ">
-							<img src="images/banner5.png" class="img-responsive" alt="" hidden/>
+							<!-- <img src="images/banner5.png" class="img-responsive" alt="" hidden/> -->
 						<div class="social-icons">
 						<a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
 						<a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
@@ -220,7 +220,7 @@ Smartphone Compatible web template, web design" />
 				</div>
 				<div class="wthree_about_right_grid_right">
 					<h4>Web Design</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+					<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 				</div>
 				<div class="clearfix"> </div>
 			</div>
@@ -232,7 +232,7 @@ Smartphone Compatible web template, web design" />
 					</div>
 					<div class="wthree_about_right_grid_right">
 						<h4>Web App</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -244,7 +244,7 @@ Smartphone Compatible web template, web design" />
 					</div>
 					<div class="wthree_about_right_grid_right">
 						<h4>Web Development</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -257,7 +257,7 @@ Smartphone Compatible web template, web design" />
 					</div>
 					<div class="wthree_about_right_grid_right">
 						<h4>Mobile app Design</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -268,8 +268,8 @@ Smartphone Compatible web template, web design" />
 						</div>
 					</div>
 					<div class="wthree_about_right_grid_right">
-						<h4>Creative Design</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+						<h4>Front End / Back End Development</h4>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -281,7 +281,7 @@ Smartphone Compatible web template, web design" />
 					</div>
 					<div class="wthree_about_right_grid_right">
 						<h4>Mobile app Development</h4>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p>
+						<!-- <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim.</p> -->
 					</div>
 					<div class="clearfix"> </div>
 				</div>
@@ -343,7 +343,7 @@ Smartphone Compatible web template, web design" />
 <!-- //portfolio -->
 
 <!-- Stats --> 
-<div class="col-md-8 stats news-w3layouts">  
+<!-- <div class="col-md-8 stats news-w3layouts">  
 	<div class="stats-info agileits-w3layouts">
 		<div class="col-sm-4 col-xs-6 stats-grid">
 			<div class="stats-img">
@@ -372,7 +372,7 @@ Smartphone Compatible web template, web design" />
 <div class="col-md-4 projects-right1">
 	<img src="images/stats.jpg" alt="" />
 </div>
-<div class="clearfix"></div>
+<div class="clearfix"></div> -->
 <!-- //Stats -->  
 
 <!-- Education and Work experience -->
@@ -905,7 +905,7 @@ Smartphone Compatible web template, web design" />
 								var colors = [
 										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'],['#ffffff', '#53d769'], ['#ffffff', '#147efb']
 									];
-								var persentase = [50, 90, 90, 80];
+								var persentase = [65, 90, 90, 80];
 								for (var i = 0; i <= 3; i++) {
 									var child = document.getElementById('circles-' + i);
 									// console.log(persentase[i])
