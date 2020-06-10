@@ -320,7 +320,21 @@ Smartphone Compatible web template, web design" />
 								<div class="col-md-3 team-gd " style="text-align:center;">
 									<label><a href="http://pgds.my.id/tasbih-counter">Tasbih Counter</a></label>
 									<div class="thumb">
-										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/tasbih-counter.png" alt="">
+										<a href="#portfolioModal5" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/tasbih-counter.png" alt="tasbih-counter">
+										<div class="team_pos">
+											<ul>
+												<li>
+													<div class="morph pic fb_icon1"></div>
+												</li>
+											</ul>
+										</div>
+										</a>
+									</div>
+								</div>
+								<div class="col-md-3 team-gd " style="text-align:center;">
+									<label><a href="https://play.google.com/store/apps/details?id=com.initiald.catalognasa">Catalog Nasa</a></label>
+									<div class="thumb">
+										<a href="#portfolioModal6" class="portfolio-link b-link-diagonal b-animate-go" data-toggle="modal"><img src="images/catalog-nasa.png" alt="catalog-nasa">
 										<div class="team_pos">
 											<ul>
 												<li>
@@ -828,67 +842,9 @@ Smartphone Compatible web template, web design" />
 			<div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <div class="modal-body">
-						<h3>Image-Title</h3>
-                        <img src="images/g6.jpg" class="img-responsive img-centered" alt="">
+						<h3>Catalog Nasa</h3>
+                        <img src="images/catalog-nasa.png" class="img-responsive img-centered" alt="">
                         <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade slideanim" id="portfolioModal7" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content port-modal">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl"></div>
-            </div>
-        </div>
-        <div class="container">
-			<div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="modal-body">
-						<h3>Image-Title</h3>
-                        <img src="images/g7.jpg" class="img-responsive img-centered" alt="">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade slideanim" id="portfolioModal8" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content port-modal">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl"></div>
-            </div>
-        </div>
-        <div class="container">
-			<div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="modal-body">
-						<h3>Image-Title</h3>
-                        <img src="images/g8.jpg" class="img-responsive img-centered" alt="">
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="portfolio-modal modal fade slideanim" id="portfolioModal9" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-content port-modal">
-        <div class="close-modal" data-dismiss="modal">
-            <div class="lr">
-                <div class="rl"></div>
-            </div>
-        </div>
-        <div class="container">
-			<div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <div class="modal-body">
-                        <img src="images/g9.jpg" class="img-responsive img-centered" alt="">
                     </div>
                 </div>
             </div>
