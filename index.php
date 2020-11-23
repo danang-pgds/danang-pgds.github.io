@@ -594,24 +594,64 @@ Smartphone Compatible web template, web design" />
 							<div class="w3ls_agile_circle_progress agile_info_shadow" id="skills">
 								<div class="cir_agile_info ">
 								<h3 class="w3_inner_tittle text-center">My Coding skills</h3>
-									  <div class="skill-grids">
-										<div class="skills-grid text-center">
-											<div class="circle" id="circles-0"></div>
-											<p>UI/UX Designer</p>
-										</div>
-										<div class="skills-grid text-center">
-											<div class="circle" id="circles-1"></div>
-											<p>Html & Java Script</p>
-										</div>
-										<div class="skills-grid text-center">
-											<div class="circle" id="circles-2"></div>
-											<p>Web developer</p>
-										</div>
-										<div class="skills-grid text-center">
-											<div class="circle" id="circles-3"></div>
-											<p>Mobile developer</p>
-										</div>
-										<div class="clearfix"></div>
+								<div class="skill-grids">
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-0"></div>
+										<p>UI/UX Designer</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-1"></div>
+										<p>Html & Java Script</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-2"></div>
+										<p>Web developer</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-3"></div>
+										<p>Mobile developer</p>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+
+								<div class="skill-grids">
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-4"></div>
+										<p>Code Igniter</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-5"></div>
+										<p>Laravel</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-6"></div>
+										<p>Lumen</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-7"></div>
+										<p>Flutter</p>
+									</div>
+									<div class="clearfix"></div>
+								</div>
+
+								<div class="skill-grids">
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-8"></div>
+										<p>AngularJS</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-9"></div>
+										<p>Angular</p>
+									</div>
+									<!-- <div class="skills-grid text-center">
+										<div class="circle" id="circles-6"></div>
+										<p>Lumen</p>
+									</div>
+									<div class="skills-grid text-center">
+										<div class="circle" id="circles-7"></div>
+										<p>Flutter</p>
+									</div> -->
+									<div class="clearfix"></div>
 								</div>
 							</div>
 						</div>
@@ -859,10 +899,16 @@ Smartphone Compatible web template, web design" />
 	 <script type="text/javascript" src="js/circles.js"></script>
 					         <script>
 								var colors = [
-										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'],['#ffffff', '#53d769'], ['#ffffff', '#147efb']
+										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'],['#ffffff', '#53d769'], ['#ffffff', '#147efb'],
+										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158'],['#ffffff', '#53d769'], ['#ffffff', '#147efb'],
+										['#ffffff', '#fd9426'], ['#ffffff', '#fc3158']
 									];
-								var persentase = [65, 90, 90, 80];
-								for (var i = 0; i <= 3; i++) {
+								var persentase = [
+									65, 90, 90, 80, 
+									90, 85, 85, 80,
+									90, 80
+									];
+								for (var i = 0; i <= 9; i++) {
 									var child = document.getElementById('circles-' + i);
 									// console.log(persentase[i])
 									Circles.create({
